@@ -42,3 +42,6 @@ Check out my Hash Decrypter app on Google Play:
 <a href="mailto:5ulfur.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-1?style=for-the-badge&logo=gmail&logoColor=white&color=red"></a>
 <a href="https://it.linkedin.com/in/simone-vitto-6ba92b216"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-1?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
 </p>
+
+## Support me:
+<a href="https://www.buymeacoffee.com/5ulfur"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a>
